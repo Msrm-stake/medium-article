@@ -1,0 +1,38 @@
+.banner {
+  width: 500px;
+  align-content: center;
+  padding: 10px;
+  margin-left: 20px;
+  border-radius: 5px;
+}
+
+.container {
+    background-image: url(https://images.unsplash.com/photo-1496065187959-7f07b8353c55?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: cover;
+    color: white;
+    padding: 120px 0;
+    border-radius: 5px;
+}
+
+.article {
+  color: #494949;
+  font-size: 18px;
+  line-height: 1.6;
+  font-weight: lighter;
+  font-family: 'Lora', serif;
+  width: 800px;
+}
+
+.text {
+  width: 700px;
+  margin: 50px auto;
+}
+
+h1 {
+  text-align: auto;
+}
+
+.header {
+  text-align: auto;
+  height: 50px;
+}
